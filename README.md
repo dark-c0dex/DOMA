@@ -24,13 +24,7 @@ pip install -r requirements.txt
 
 ## ▶️ Usage
 ```bash
-python doma.py -d example.com
-```
-
-### Arguments:
-```bash
--d, --domain      Specify the domain to lookup
--h, --help        Show help message
+python main.py
 ```
 
 ## 📸 Screenshot
