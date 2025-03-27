@@ -15,7 +15,7 @@ DOMA is a powerful **Website Domain Lookup Tool** built with Python. It helps us
 ## 📥 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Dark_c0dex/DOMA.git
+git clone https://github.com/dark-c0dex/DOMA.git
 cd DOMA
 
 # Install required dependencies
